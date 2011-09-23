@@ -41,6 +41,7 @@ module Kickstarter
     :small_projects    => "small-projects",
     :most_funded       => "most-funded",
     :curated           => "curated-pages",
+    :successful        => "successful"
   }
   
   # by category
