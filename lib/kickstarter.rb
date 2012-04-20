@@ -22,7 +22,8 @@ module Kickstarter
     :photography => "photography",
     :publishing  => "publishing",
     :technology  => "technology",
-    :theater     => "theater"
+    :theater     => "theater",
+    :writing     => "publishing"
   }
   
   Types = {
