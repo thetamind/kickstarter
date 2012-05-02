@@ -20,19 +20,13 @@ describe Kickstarter do
   
   it "should list 1 page from recommended projects" do
     WebMock.disable!
-    c = 0
-    Kickstarter.by_list(:recommended, :pages => 1) { |project|
-      c += 1
-    }
-    c.should == PPP
+    projects = Kickstarter.by_list(:recommended, :pages => 1)
+    projects.count.should == PPP
   end
   
   it "should list 2 pages from recommended projects" do
     WebMock.disable!
-    c = 0
-    Kickstarter.by_list(:recommended, :pages => 2) { |project|
-      c += 1
-    }
-    c.should == 2 * PPP
+    projects = Kickstarter.by_list(:recommended, :pages => 2)
+    projects.count.should == 2 * PPP
   end
 end
