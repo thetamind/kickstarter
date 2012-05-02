@@ -62,6 +62,10 @@ module Kickstarter
   def self.by_url(url)
     Kickstarter::Project.new(url)
   end
+
+  def self.by_handle(handle)
+    Kickstarter::Project.new(File.join(BASE_URL, 'projects', handle))
+  end
   
   private
   

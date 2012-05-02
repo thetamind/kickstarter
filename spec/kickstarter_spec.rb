@@ -19,4 +19,13 @@ describe Kickstarter do
     projects = Kickstarter.by_list(:recommended, :pages => 2)
     projects.count.should == 2 * PPP
   end
+
+  describe "#by_handle" do
+    it "should build url" do
+      WebMock.enable!
+      expected_url = Kickstarter::BASE_URL + '/projects/user/proj'
+      Kickstarter::Project.should_receive(:new).with(expected_url)
+      project = Kickstarter.by_handle('user/proj')
+    end
+  end
 end
