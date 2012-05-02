@@ -3,17 +3,7 @@ require 'kickstarter'
 
 describe Kickstarter do
   it "should list all categories" do
-    WebMock.enable!
-    stub_request(:get, Kickstarter::BASE_URL).
-      to_return( File.new("./spec/discover.txt").read )
-
-    categories = {}
-    Kickstarter.categories do |name, path|
-      categories[name] = path
-    end
-    categories.length.should > 0
-
-    WebMock.should have_requested(:get, Kickstarter::BASE_URL)
+    Kickstarter::Categories.length.should > 0
   end
   
   PPP = 15 # projects per page
