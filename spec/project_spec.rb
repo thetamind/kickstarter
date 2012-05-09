@@ -13,4 +13,5 @@ describe Kickstarter::Project do
   subject { Kickstarter::Project.new(PROJECT_URL) }
 
    its(:video_poster_url) { should == "http://s3.amazonaws.com/ksr/projects/111694/photo-full.jpg?1334081632" }
+   its(:video_url) { should == "http://s3.amazonaws.com/ksr/projects/111694/video-96723-h264_high.mp4" }
 end

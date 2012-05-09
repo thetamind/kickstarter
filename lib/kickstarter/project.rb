@@ -153,6 +153,12 @@ module Kickstarter
       @short_url ||= details_page.css("#share_a_link").attr("value").value
     end
     
+    def video_url
+      @video_url ||= begin
+        details_page.css('#video-section .video-player').first.attr('data-video').to_s
+      end
+    end
+    
     def video_poster_url
       @video_poster_url ||= begin
           details_page.css('#video-section .video-player').first.attr('data-image').to_s
