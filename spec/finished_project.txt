@@ -1,0 +1,1246 @@
+HTTP/1.1 200 OK
+Server: nginx/1.0.11
+Date: Tue, 29 May 2012 20:57:24 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Status: 200 OK
+Content-Length: 65213
+X-Runtime: 0.304568
+Set-Cookie: abid=BAgiFWI4M2RkZjM4ZGM5YzA1MmU%3D--e1e1542371a1b578075e35032ca6e649a3290d6f; path=/; expires=Sat, 29-May-2032 20:57:24 GMT
+Set-Cookie: last_page=http%3A%2F%2Fwww.kickstarter.com%2Fprojects%2F597507018%2Fpebble-e-paper-watch-for-iphone-and-android; path=/; expires=Tue, 29-May-2012 21:27:24 GMT
+Set-Cookie: request_time=Tue%2C+29+May+2012+20%3A57%3A24+-0000; path=/
+X-Request-Id: cc59d7be217e9d3aee269463c7358cee
+Cache-Control: max-age=0, private, must-revalidate
+ETag: "9f12395e63e584a39ab835ee9f3f54cb"
+
+<!DOCTYPE html>
+<html class="projects_show no-js fontface " lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Pebble: E-Paper Watch for iPhone and Android by Pebble Technology &mdash; Kickstarter</title><!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="telephone=no" name="format-detection">
+<link href="/fonts/fonts.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/assets/project_page.css" media="screen" rel="stylesheet" type="text/css" />
+<!--[if lte IE 7]>
+  <link href="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/stylesheets/compass/library/ie.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<link href="http://asset0.zendesk.com/external/zenbox/v2.1/zenbox.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/favicon.png" rel="icon" type="image/png">
+<link href="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" type="image/png">
+<link href="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/apple-touch-icon-ipad-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png">
+<link href="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/apple-touch-icon-iphone4-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png">
+<link href="http://www.kickstarter.com/services/oembed?url=http%3A%2F%2Fwww.kickstarter.com%2Fprojects%2F597507018%2Fpebble-e-paper-watch-for-iphone-and-android" rel="alternate" title="Pebble: E-Paper Watch for iPhone and Android Script Tag oEmbed" type="application/json+oembed">
+<link rel="alternate" type="application/atom+xml" title="Pebble: E-Paper Watch for iPhone and Android : Kickstarter" href="http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/posts.atom" />
+<meta property="twitter:card" content="player"/>
+<meta name="video_type" content="application/x-shockwave-flash"/>
+<meta name="video_width" content="560"/>
+<meta property="og:video:width" content="560"/>
+<meta property="twitter:site:id" content="16186995"/>
+<meta property="og:site_name" content="Kickstarter"/>
+<meta name="description" content="Pebble Technology is raising funds for Pebble: E-Paper Watch for iPhone and Android on Kickstarter! 
+
+ Pebble is a customizable watch. Download new watchfaces, use sports and fitness apps, get notifications from your phone."/>
+<meta property="twitter:player:stream" content="http://s3.amazonaws.com/ksr/projects/111694/video-108947-h264_high.mp4"/>
+<meta property="twitter:player:width" content="560"/>
+<meta property="og:url" content="http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android"/>
+<meta name="video_height" content="314"/>
+<meta property="twitter:player" content="https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/widget/video.html"/>
+<meta property="og:video:height" content="314"/>
+<meta property="kickstarter:location:longitude" content="-122.143"/>
+<meta property="og:type" content="kickstarter:project"/>
+<meta property="og:video:type" content="application/x-shockwave-flash"/>
+<meta property="og:title" content="Pebble: E-Paper Watch for iPhone and Android"/>
+<meta property="twitter:player:height" content="314"/>
+<meta property="kickstarter:location:latitude" content="37.4419"/>
+<meta property="og:image" content="http://s3.amazonaws.com/ksr/projects/111694/photo-full.jpg?1334081632"/>
+<meta property="og:video" content="http://www.kickstarter.com/swf/kickplayer.swf?allowfullscreen=true&amp;autostart=true&amp;backcolor=000000&amp;controlbar=over&amp;file=http%3A%2F%2Fs3.amazonaws.com%2Fksr%2Fprojects%2F111694%2Fvideo-108947-h264_high.mp4&amp;image=http%3A%2F%2Fs3.amazonaws.com%2Fksr%2Fprojects%2F111694%2Fphoto-full.jpg&amp;screencolor=000000&amp;skin=http%3A%2F%2Fwww.kickstarter.com%2Fswf%2Fkickskin.swf&amp;wmode=opaque"/>
+<meta property="og:description" content="Pebble is a customizable watch. Download new watchfaces, use sports and fitness apps, get notifications from your phone."/>
+<meta property="fb:app_id" content="69103156693"/>
+<meta name="title" content="Kickstarter &gt;&gt; Pebble: E-Paper Watch for iPhone and Android by Pebble Technology"/>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="iMkvlaJ5LF6/yOj5PT50tMHeTZxD+SYC84ZUQfi76fQ=" name="csrf-token" />
+<link href="http://kck.st/HumIV5" rel="shorturl">
+<link href="http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android" rel="canonical">
+<link href="http://s3.amazonaws.com/ksr/projects/111694/photo-med.jpg?1334081632" rel="image_src">
+<link href="http://www.kickstarter.com/swf/kickplayer.swf?allowfullscreen=true&amp;autostart=true&amp;backcolor=000000&amp;controlbar=over&amp;file=http%3A%2F%2Fs3.amazonaws.com%2Fksr%2Fprojects%2F111694%2Fvideo-108947-h264_high.mp4&amp;image=http%3A%2F%2Fs3.amazonaws.com%2Fksr%2Fprojects%2F111694%2Fphoto-full.jpg&amp;screencolor=000000&amp;skin=http%3A%2F%2Fwww.kickstarter.com%2Fswf%2Fkickskin.swf&amp;wmode=opaque" rel="video_src">
+
+<script>
+  //<![CDATA[
+    var _sf_startpt=(new Date()).getTime();
+    docElement = this.document.documentElement;
+    docElement.className=docElement.className.replace(/\bno-js\b/,'') + 'js';
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    function timeRemaining(epochTime){
+    
+      var diff = epochTime - ((new Date()).getTime() / 1000);
+      var num_unit = (diff < 60 && [Math.max(diff, 0), 'seconds']) ||
+        ((diff/=60) < 60 && [diff, 'minutes']) ||
+        ((diff/=60) < 72 && [diff, 'hours']) ||
+        [diff/=24, 'days'];
+    
+      // Round down
+      num_unit[0] = Math.floor(num_unit[0]);
+      // Singularize unit
+      if (num_unit[0] == 1) { num_unit[1] = num_unit[1].replace(/s$/,""); }
+    
+      return num_unit;
+    };
+  //]]>
+</script>
+</head>
+
+<body class="project projects" id="projects_show">
+<div class="jGrowl center" id="growl_section"></div>
+<div id="learn-more-wrap">
+<div class="container" id="learn-more">
+<p>
+<span class="icon-whaaat"></span>
+<strong>What is Kickstarter?</strong>
+We’re the world's largest funding platform for creative projects.
+<a href="#" class="link_to_learn-more-dialog">Learn more!</a>
+</p>
+</div>
+</div>
+<div id="header-wrap">
+<div class="container" id="header">
+<h1 id="logo"><a href="/"><span>Kickstarter</span></a></h1>
+<ul id="menu-main">
+<li id="menu-main-discover"><a href="/discover"><strong>Discover</strong> <span>great projects</span></a></li>
+<li id="menu-main-fund"><a href="/start"><strong>Start</strong> <span>your project</span></a></li>
+</ul>
+<form accept-charset="UTF-8" action="/projects/search" class="search" method="get"><div style="margin:0;padding:0;display:inline"><input class="hidden" name="utf8" type="hidden" value="&#x2713;" /></div>
+<div class="field search">
+<span class="icon-search"></span>
+<span class="icon-search-clear"></span>
+<input class="input-search header text" data-tracker-name="Header Live Search" id="term" name="term" type="text" />
+<span class="icon-search-nipple"></span>
+</div>
+</form>
+
+<ul id="menu-sub">
+<li id="menu-sub-blog"><a href="/blog">Blog</a></li>
+<li id="menu-sub-help"><a href="/help">Help</a></li>
+<li><a href="https://www.kickstarter.com/signup">Sign up</a></li>
+<li><a href="https://www.kickstarter.com/login">Log in</a></li>
+</ul>
+</div>
+</div>
+<div id="search_results-wrap">
+<div id="search_results-shadow">
+<div id="search_results-inner_wrap">
+<div class="container" id="search_results">
+<a class="close"><span class="icon-x"></span></a>
+<h2 class="header"></h2>
+<div id="search_results_panel"></div>
+<p class="footer"></p>
+<a class="prev arrow">
+<span class="icon-search-left"></span>
+<strong>Previous</strong>
+</a>
+<a class="next arrow">
+<span class="icon-search-right"></span>
+<strong>Next</strong>
+</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+<div id="running-board-wrap">
+<div class="container" id="running-board">
+<div id="project-header">
+<div class="NS-project_-running_board">
+<div id="headrow">
+<h1 data-project-pid="506924864" id="name">
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android">Pebble: E-Paper Watch for iPhone and Android</a>
+</h1>
+<p>
+<span data-project-category="Product Design" data-project-parent-category="Design" id="project_category">
+A
+<a href="/discover/categories/Product%20Design?ref=project">Product Design</a>
+</span>
+project
+in
+<span data-project-location="Palo Alto, CA" id="project_location">
+<a href="/discover/cities/palo-alto-ca?ref=project">Palo Alto, CA</a>
+</span>
+by
+<a href="/profile/597507018" id="byline">Pebble Technology</a>
+·
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/messages/new?message%5Bto%5D=597507018" class="send-message remote_modal_dialog" data-modal-title="Send a Message to Pebble Technology">send message</a>
+</p>
+</div>
+
+<ul id="widgets">
+<li class="ajax-container" id="following-widget">
+<div class="right-nipple-alt" id="follow-tip">
+<p>Don't want to forget? Click the star to add this project to your profile.</p>
+<span class="nipple"></span>
+</div>
+<div id="follow">
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/follow" class="button-remind-me-alt" data-ksrjson="true">Remind Me</a>
+</div>
+
+</li>
+</ul>
+<ul class="menu-tabs" id="running-board-nav">
+<li>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android" class="current" id="home">Project Home</a>
+</li>
+<li>
+<span data-updates-count="13" id="updates_count">
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/posts" id="updates">Updates <span class='count'>13</span></a>
+</span>
+</li>
+<li>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/backers" id="backers">Backers <span class='count'>68,929</span></a>
+</li>
+<li>
+<span data-comments-count="6945" id="comments_count">
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/comments" id="comments">Comments <span class='count'>6,945</span></a>
+</span>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+<div id="content-wrap">
+<div class="container" id="content">
+
+<div class="NS-projects-content">
+<div id="leftcol">
+
+<div data-has-video="true" id="video-section">
+<div class="video-player" data-image="http://s3.amazonaws.com/ksr/projects/111694/photo-full.jpg?1334081632" data-video-tracker-url="http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/video/plays" data-video="http://s3.amazonaws.com/ksr/projects/111694/video-108947-h264_high.mp4"><img alt="Photo-full" height="420" src="http://s3.amazonaws.com/ksr/projects/111694/photo-full.jpg?1334081632" width="560" /></div>
+</div>
+<div class="share-box-wrap">
+<table class="share-box">
+<tbody>
+<tr>
+<td class="facebook first">
+<fb:like data-tracker-name="Facebook" font="lucida grande" href="http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android" show_faces="false" width="251"></fb:like>
+</td>
+<td class="twitter">
+<a class="twitter-share-button" data-count="none" data-tracker-name="Twitter" data-url="http://kck.st/HumIV5" data-via="kickstarter" href="http://twitter.com/share"></a>
+</td>
+<td class="embed">
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/widget" class="button-action remote_modal_dialog" data-modal-title="Embed a widget on your site" data-tracker-name="Embed"><span class='icon-embed'></span>Embed</a>
+</td>
+<td class="short-link">
+<input class="text" id="share_a_link" name="share_a_link" type="text" value="http://kck.st/HumIV5" />
+<div class="copy_button">
+<a href="" class="copy-button zeroclipboard" data-text="http://kck.st/HumIV5" data-tracker-name="Copy Link">Copy</a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div data-project-state="successful" id="about">
+<h3 class="dotty">About this project<div class="clear"></div></h3><div class="template" data-href="http://ksimgs.s3.amazonaws.com/checkoutvideo.jpg"><img src="http://ksimgs.s3.amazonaws.com/checkoutvideo.jpg"></div><p><b><i>  </i></b></p><h1>Our Kickstarter campaign is over, but you can still get a Pebble. Head over to <a href="http://www.getpebble.com" target="_blank">www.getpebble.com</a> for more info and to place an order. </h1><p><b><i>May 8 - Pebble now supports Bluetooth 4.0!</i></b></p><p><b>If you're an app developer, big or small, please keep Pebble in mind! Sign up for our Developer's mailing list <a href="http://eepurl.com/lsYvn" target="_blank">here</a>. </b></p><p><b>High resolution photos for PRESS <a href="http://ksimgs.s3.amazonaws.com/PebblePressPack1.zip" target="_blank">download here</a>. For press inquiries, please contact media@getinpulse.com. Follow Pebble on Twitter <a href="https://twitter.com/#!/pebblewatch" target="_blank">@pebblewatch</a> and on <a href="http://facebook.com/getpebble" target="_blank">Facebook</a>.</b></p><p><b><i>April 12 pt 2 - Pebble is now even more water resistant! You can go swimming, run in the rain with Pebble.</i></b></p><p><b><i>April 12 update - </i></b><b>We're absolutely blown away by your support, Kickstarter. $1M in 28 hours!</b></p><p><a href="http://daringfireball.net/linked/2012/04/23/pebble-watch" target="_blank">Daring Fireball</a> - "The watch itself is a very cool idea; I'm in as a backer"</p><p><a href="http://www.forbes.com/sites/anthonykosner/2012/04/15/pebble-watch-for-iphone-and-android-the-most-successful-kickstarter-project-ever/" target="_blank">Forbes</a> - "Proven track record...Incredibly useful product"</p><p><a href="http://www.engadget.com/2012/04/11/allerta-intros-pebble-smartwatch-inpulses-attractive-younger-s/" target="_blank">Engadget</a> - "Allerta intros Pebble smartwatch, inPulse's attractive younger sibling"</p><p><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.wired.com%2Fgadgetlab%2F2012%2F04%2Fpebble-e-ink-smartwatch-connects-to-your-ios-or-android-phone%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH13BEzuIZjF6I2J_OqRcbOcewMoQ" target="_blank">Wired Gadget Lab</a> - "Smartwatches haven't really caught on with mainstream buyers - but that might change with Allerta's new wrist-worn creation"</p><p><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.theverge.com%2F2012%2F4%2F11%2F2940954%2Fallerta-pebble-smartwatch-kickstarter&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHMteKJYiLkim7CpqmnN8pStjPUDg" target="_blank">The Verge</a> - "...a smartwatch that might strike one of the best balances between functionality and power drain to date"</p><p><a href="http://twitter.com/#!/GreatDismal/status/190923876526596096" target="_blank">William Gibson</a> - "Kickstart [a] nice e-paper watch! Your Backer, e pluribus unum!"</p><p><a href="http://www.reddit.com/r/Android/comments/s4dvo/pebble_epaper_watch_for_iphone_and_android/" target="_blank">r/Android</a> - p1zz4guy "I started throwing money at my computer screen while reading this"</p><p><a href="http://pandodaily.com/2012/04/12/kickstarter-gets-yet-another-1m-project-the-pebble-an-iphone-friendly-smartwatch/" target="_blank">PandoDaily</a> - "Pebble is a smartwatch done right"</p><p><b><i>April 11 update - added if-this-then-that (ifttt.com) support</i></b></p><h1>
+<b>Customize Your Perfect Watch. It's as Easy as Downloading an App.</b>
+</h1><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><p><b>Pebble is the first watch built for the 21st century</b>. It's infinitely customizable, with beautiful downloadable watchfaces and useful internet-connected apps. Pebble connects to iPhone and Android smartphones using Bluetooth, alerting you with a silent vibration to incoming calls, emails and messages. While designing Pebble, we strove to create a minimalist yet fashionable product that seamlessly blends into everyday life. </p><h1>CUSTOMIZE WITH APPS</h1><p>Apps bring Pebble to life. We're building some amazing apps for Pebble. Cyclists can use Pebble as a bike computer, accessing the GPS on your smartphone to display speed, distance and pace data. Runners get a similar set of data displayed on their wrist. Use the music control app to play, pause or skip tracks on your phone with the touch of a button. Don't worry about the rain, Pebble is water-resistant! If you're a golfer, feel free to bring Pebble onto the course. We're working with <a href="http://www.freecaddie.com/" target="_blank">Freecaddie</a> to create a great golf rangefinder app for Pebble that works on over 25,000 courses world-wide. Instead of using your phone, view your current distance to the green right on your wrist. These apps will be the first, with more in the works!  </p><div class="template" data-href="http://d2brbg16830x6.cloudfront.net/cycling4.jpg"><img src="http://d2brbg16830x6.cloudfront.net/cycling4.jpg"></div><div class="template" data-href="http://d2brbg16830x6.cloudfront.net/music2.jpg"><img src="http://d2brbg16830x6.cloudfront.net/music2.jpg"></div><div class="template" data-href="http://d2brbg16830x6.cloudfront.net/running1.jpg"><img src="http://d2brbg16830x6.cloudfront.net/running1.jpg"></div><div class="template" data-href="http://d2brbg16830x6.cloudfront.net/golf2.jpg"><img src="http://d2brbg16830x6.cloudfront.net/golf2.jpg"></div><h1> </h1><h1>CUSTOMIZE WITH WATCHFACES</h1><p>Pebble can change instantly, thanks to its brilliant, outdoor-readable electronic-paper (e-paper) display. We've designed tons of watchfaces already, with more coming every day. Choose your favourite watchfaces using Pebble's iPhone or Android app. Then as the day progresses, effortlessly switch to the one that matches your mood, activity or outfit. </p><div class="template" data-href="http://d2brbg16830x6.cloudfront.net/wordclock4.jpg"><img src="http://d2brbg16830x6.cloudfront.net/wordclock4.jpg"></div><div class="template" data-href="http://d2brbg16830x6.cloudfront.net/combo3.jpg"><img src="http://d2brbg16830x6.cloudfront.net/combo3.jpg"></div><div class="template" data-href="http://d2brbg16830x6.cloudfront.net/trio2.jpg"><img src="http://d2brbg16830x6.cloudfront.net/trio2.jpg"></div><h1>CUSTOMIZE WITH NOTIFICATIONS</h1><p>If you need to stay on top of things, Pebble can help with vibrating notifications, messages and alerts. Dismiss a notification with a shake of your wrist. Don't worry, it's easy to disable all notifications.</p><ul>
+<li>Incoming Caller ID</li>
+<li>Email (Gmail or any IMAP email account)</li>
+<li>Calendar Alerts</li>
+<li>Facebook Messages</li>
+<li>Twitter</li>
+<li>Weather Alerts</li>
+<li>Silent vibrating alarm and timer</li>
+</ul><div></div>
+<p>Android users can also receive Text Messages (SMS) on their Pebble. Unfortunately iPhone does not expose this data. Have any suggestions for other notification types? Leave us a message in the comments! </p><div class="template" data-href="http://d2brbg16830x6.cloudfront.net/incomingcall1.jpg"><img src="http://d2brbg16830x6.cloudfront.net/incomingcall1.jpg"></div><div class="template" data-href="http://d2brbg16830x6.cloudfront.net/email1.jpg"><img src="http://d2brbg16830x6.cloudfront.net/email1.jpg"></div><div>
+<div>
+<div>
+
+
+<h1> </h1>
+<h1>CUSTOMIZE BY CODING</h1>
+<p>Want your watch to tell you when your next bus is leaving? Maybe you're jonesing to see your compile status or recent github commits.. Think push notifications, directly to your watch using the data connection on your phone. Want to check-in on your watch, or create an app that can monitor your sleep? Pebble can send data from the accelerometer and buttons back up to the internet. </p>
+<p>Pebble can receive simple alerts and notifications from <b><i>if this then that</i> (ifttt.com) </b>or our web-facing RESTful endpoint. More adventurous developers can use the Pebble SDK, with its Arduino-like abstractions and simple C structure, to gain full control of the watch. Multiple apps can run on Pebble, along side watchfaces and regular notifications.</p>
+<ul>
+<li>
+<b>Load apps using Bluetooth</b> </li>
+<li>
+<b>
+144 x 168 pixel display</b> black and white e-paper</li>
+<li>
+<b>
+Bluetooth</b> 2.1+ EDR and 4.0 (Low Energy)</li>
+<li><b>4 buttons</b></li>
+<li><b>Vibrating motor</b></li>
+<li>
+<b>
+3 axis accelerometer</b> with gesture detection</li>
+<li>
+<b>Distribute apps</b> via Pebble watchapp store</li>
+</ul>
+<p>Detailed SDK specs are available on our <a href="http://www.getpebble.com/blog" target="_blank">Pebble Dev Blog</a>.<b> </b></p>
+<h1><b>How does it work?</b></h1>
+<p>
+Pebble connects by Bluetooth to your iPhone or Android device. Setting up Pebble is as easy as downloading the Pebble app onto your phone. All software updates are wirelessly transmitted to your Pebble.</p>
+<p><i>Compatibility</i></p>
+
+<ul>
+<li>
+<b>iPhone 3GS, 4, 4S running iOS 5 </b>or<b> any iPod Touch with iOS 5.</b>
+</li>
+<li>
+<b>Android devices running OS 2.3 and up</b>. Works great with Android 4.0 (Ice Cream Sandwich)!</li>
+</ul>
+<p>Unfortunately Pebble does not work with Blackberry, Windows Phone 7, or Palm phones at this time.</p>
+<h1><b>Where we're at</b></h1>
+<p> We’ve been working on smartwatches for over 3 years now. The Pebble that you see in the video is a real, working prototype.</p>
+<p>With your support, we can bring Pebble onto wrists worldwide. While we're close to entering production, your contribution will help fund:</p>
+<p>- Production tooling <br>- Large component order<br>- Global Bluetooth certification</p>
+
+<h1>REWARDS</h1>
+<p>Each Pebble has a textured plastic case, shatter resistant lens with an anti-reflective optical coating and a custom-designed 22mm rubber strap. You'll also receive a special USB cable that recharges the watch.</p>
+<p><b>Color Option: Voter's Choice</b> You're part of the design process! Three color options are already set: Arctic White, Jet Black and Cherry Red. If you back any of the color options, we'll email you a survey after the project closes so you can vote on a new, 4th color option. Later on, we'll email you again asking which of the final color options you'd like to select. Even if you don't like the Voter's Choice, you'll be able to choose from Red/White/Black.</p>
+<p><b>$99 </b>- Early Bird: 200 Black watches available.<br><b>$115</b> - One Black Pebble.<br><b>$125 </b>- One Color Pebble. <br><b>$220 </b>- Two Black Pebbles.<br><b>$235 </b>- Prototype Pebble for early app development + one Color Pebble.<br><b>$240 </b>- Two Color Pebbles.<br><b>$550 </b>- Five Color Pebbles.<br><b>$1000 </b>- Ten Color Pebbles.<br><b>$1,250 </b>- Custom watchface + five Color Pebbles.</p>
+<h1><b>FAQ</b></h1>
+<p><b>Q. How long does the battery last?    A.</b> The rechargeable battery keeps Pebble going for 7+ days. </p>
+<p><b>Q. Does the watch display stay on all the time?    A. </b>Yes. The display shows a watchface at all times.</p>
+<p><b>Q. Does it have a backlight?    A. </b>Yes, Pebble has a backlight to view the display at night.</p>
+<p><b>Q. Is it waterproof?    A. </b>Pebble is now water resistant, at least enough to go swimming, run in the rain etc. You can fully submerge Pebble in water. We're working on getting the actual certification level settled (3ATM, 5ATM, etc). This is in response to your suggestions!</p>
+<p><b>Q. Scratchproof?    A. </b>Yes, Pebble has a scratch and shatter resistant lens with an anti-glare optical coating.</p>
+<p><b>Q. Does it use up my phones battery?    A. </b>Pebble is a Bluetooth device, similar to a Bluetooth headset. It does affect the battery life of your phone, usually using up an extra 5-10% per day.</p>
+<p><b>Q. How does it charge?    A.</b> We include a special USB cable. You can charge Pebble using your computer or any wall USB charger.</p>
+<p><b>Q. Can I replace the bands?</b> <b>A.</b> Yes, Pebble is designed to fit most 22mm watch bands.</p>
+<div class="template" data-href="http://nojsstats.appspot.com/UA-30718743-1/kickstarter.com/projects/597507018"><img src="http://nojsstats.appspot.com/UA-30718743-1/kickstarter.com/projects/597507018"></div>
+
+</div>
+</div>
+</div><div></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD">Open link in new tab</div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div><div class="vimiumReset vimiumHUD"></div>
+</div>
+<div class="NS-projects-faqs" id="project-faqs">
+<h3 class="dotty">
+FAQ
+</h3>
+<ul class="faqs">
+<li class="faq loading_wym" id="WhenCanIChooTheColoOfMyWatc">
+<div class="faq-question">
+<a href="#WhenCanIChooTheColoOfMyWatc" name="WhenCanIChooTheColoOfMyWatc">
+<span class="icon-expand"></span>
+<span class="question">When can I choose the color of my watch?</span>
+</a>
+</div>
+<div class="faq-answer">
+<p>Following the end of the project (May 18th), backers will be contacted to confirm color choices.</p>
+<div class="timestamp">
+Last updated: Thursday May  3,  1:13am EDT
+</div>
+</div>
+</li>
+<li class="faq loading_wym" id="CanIMixColoForMult">
+<div class="faq-question">
+<a href="#CanIMixColoForMult" name="CanIMixColoForMult">
+<span class="icon-expand"></span>
+<span class="question">Can I mix colors for multi-packs?</span>
+</a>
+</div>
+<div class="faq-answer">
+<p>Yes, if you have pledged for two or more color Pebbles, you can choose any combination of Arctic White, Cherry Red, Voter's choice or Jet Black. </p>
+<div class="timestamp">
+Last updated: Thursday May  3,  1:13am EDT
+</div>
+</div>
+</li>
+<li class="faq loading_wym" id="WhenCanIVoteForTheFourColo">
+<div class="faq-question">
+<a href="#WhenCanIVoteForTheFourColo" name="WhenCanIVoteForTheFourColo">
+<span class="icon-expand"></span>
+<span class="question">When can I vote for the fourth color?</span>
+</a>
+</div>
+<div class="faq-answer">
+<p>Everyone will be contacted following the end of the Kickstarter campaign and a survey will be set up to decide the Voter's choice.</p>
+<div class="timestamp">
+Last updated: Thursday May  3,  1:13am EDT
+</div>
+</div>
+</li>
+<li class="faq loading_wym" id="DoIAddTheShipFeeToThePledAmouOrIsItCharLate">
+<div class="faq-question">
+<a href="#DoIAddTheShipFeeToThePledAmouOrIsItCharLate" name="DoIAddTheShipFeeToThePledAmouOrIsItCharLate">
+<span class="icon-expand"></span>
+<span class="question">Do I add the shipping fee to the pledge amount or is it charged later?</span>
+</a>
+</div>
+<div class="faq-answer">
+<p>Please add the shipping fee to your pledge total. <br>If you did not do so, click the "Back this Project" button again and it should take you to a screen where you can edit your original pledge amount to include the cost of shipping.</p>
+<div class="timestamp">
+Last updated: Thursday May  3,  1:13am EDT
+</div>
+</div>
+</li>
+<li class="faq loading_wym" id="CanIUsePebbAndMyHeadAtTheSameTime">
+<div class="faq-question">
+<a href="#CanIUsePebbAndMyHeadAtTheSameTime" name="CanIUsePebbAndMyHeadAtTheSameTime">
+<span class="icon-expand"></span>
+<span class="question">Can I use Pebble and my headset at the same time?</span>
+</a>
+</div>
+<div class="faq-answer">
+<p>Yes, you should be able to use a regular bluetooth headset simultaneously with a Pebble watch (ie. they do not interfere with one another). </p>
+<div class="timestamp">
+Last updated: Thursday May  3,  1:13am EDT
+</div>
+</div>
+</li>
+<li class="faq loading_wym" id="CanThePebbDispMyLangProp">
+<div class="faq-question">
+<a href="#CanThePebbDispMyLangProp" name="CanThePebbDispMyLangProp">
+<span class="icon-expand"></span>
+<span class="question">Can the Pebble display my language properly?</span>
+</a>
+</div>
+<div class="faq-answer">
+<p>At the moment, the watch is set up for English but developers will be able to develop apps to provide support for other languages.</p>
+<div class="timestamp">
+Last updated: Tuesday May  8, 12:13pm EDT
+</div>
+</div>
+</li>
+<li class="faq loading_wym" id="WhatHappToPebbIfItIsNotConnToMyPhon">
+<div class="faq-question">
+<a href="#WhatHappToPebbIfItIsNotConnToMyPhon" name="WhatHappToPebbIfItIsNotConnToMyPhon">
+<span class="icon-expand"></span>
+<span class="question">What happens to Pebble if it is not connected to my phone?</span>
+</a>
+</div>
+<div class="faq-answer">
+<p>It will continue to function as a watch. For example, if you're just running watch faces, you don't need a phone at all except to initially load them onto the Pebble.</p>
+<div class="timestamp">
+Last updated: Tuesday May  8, 12:11pm EDT
+</div>
+</div>
+</li>
+<li class="faq loading_wym" id="HowFarAwayCanMyPebbBeFromMyPhon">
+<div class="faq-question">
+<a href="#HowFarAwayCanMyPebbBeFromMyPhon" name="HowFarAwayCanMyPebbBeFromMyPhon">
+<span class="icon-expand"></span>
+<span class="question">How far away can my Pebble be from my phone?</span>
+</a>
+</div>
+<div class="faq-answer">
+<p>Pebble must be within 20-30ft of your smartphone to stay connected.</p>
+<div class="timestamp">
+Last updated: Tuesday May  8, 12:11pm EDT
+</div>
+</div>
+</li>
+<li class="faq loading_wym" id="IHaveAMetaAlleWhatIsTheBackMadeOf">
+<div class="faq-question">
+<a href="#IHaveAMetaAlleWhatIsTheBackMadeOf" name="IHaveAMetaAlleWhatIsTheBackMadeOf">
+<span class="icon-expand"></span>
+<span class="question">I have a metal allergy; what is the backing made of?</span>
+</a>
+</div>
+<div class="faq-answer">
+<p>Pebble does not have any exposed metal. The watch has a plastic casing that wraps around to the back and the watch band is made of rubber.</p>
+<div class="timestamp">
+Last updated: Tuesday May  8, 12:11pm EDT
+</div>
+</div>
+</li>
+<li class="faq loading_wym" id="CoulYouHelpMeGiveAdviAbouOneOfMyProj">
+<div class="faq-question">
+<a href="#CoulYouHelpMeGiveAdviAbouOneOfMyProj" name="CoulYouHelpMeGiveAdviAbouOneOfMyProj">
+<span class="icon-expand"></span>
+<span class="question">Could you help me / give advice about one of my projects?</span>
+</a>
+</div>
+<div class="faq-answer">
+<p>Please try contacting us again in a few months, when things will have calmed down around the office a bit. We may be slow responding, but we would love to help if or when we can. </p>
+<div class="timestamp">
+Last updated: Tuesday May  8, 12:11pm EDT
+</div>
+</div>
+</li>
+<li class="faq loading_wym" id="WillPebbWorkWithBlacOrWindPhon">
+<div class="faq-question">
+<a href="#WillPebbWorkWithBlacOrWindPhon" name="WillPebbWorkWithBlacOrWindPhon">
+<span class="icon-expand"></span>
+<span class="question">Will Pebble work with Blackberry or Windows Phones?</span>
+</a>
+</div>
+<div class="faq-answer">
+<p>There is no support planned for either Blackberry or Windows Phone at the moment.</p>
+<div class="timestamp">
+Last updated: Tuesday May  8, 12:11pm EDT
+</div>
+</div>
+</li>
+<li class="faq loading_wym" id="WhatIsTheSizeOfThePebb">
+<div class="faq-question">
+<a href="#WhatIsTheSizeOfThePebb" name="WhatIsTheSizeOfThePebb">
+<span class="icon-expand"></span>
+<span class="question">What is the size of the Pebble?</span>
+</a>
+</div>
+<div class="faq-answer">
+<p>The watch face measures roughly 5cm x 3cm.</p>
+<div class="timestamp">
+Last updated: Tuesday May  8, 12:11pm EDT
+</div>
+</div>
+</li>
+
+</ul>
+<div class="faq-ask-box">
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/messages/new?message%5Bto%5D=597507018&amp;mode=FAQ" class="remote_modal_dialog button-neutral" data-modal-title="Ask a question about Pebble: E-Paper Watch for iPhone and Android">Ask a question</a>
+<p>
+<strong>Have a question?</strong>
+If the info above doesn't help, you can ask the project creator directly.
+</p>
+</div>
+</div>
+
+<div id="report-issue-wrap">
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/report/new" class="remote_modal_dialog" data-modal-title="Report this project to Kickstarter" id="report-issue-link">Report this project to Kickstarter</a>
+</div>
+</div>
+<div class="NS-projects-rightcol" id="rightcol">
+<div class="NS-projects-ecom" id="moneyraised">
+<h5>
+<div class="num" data-backers-count="68929" id="backers_count">68,929</div>
+Backers
+</h5>
+<h5>
+<div class="num" data-goal="100000.0" data-percent-raised="102.6684574" data-pledged="10266845.74" id="pledged">$10,266,845</div>
+pledged of $100,000 goal
+</h5>
+<span data-duration="37.9173148148148" data-end_time="Sat, 19 May 2012 03:00:00 -0000" data-hours-remaining="0" id="project_duration_data"></span>
+<h5>
+<div class="num">0</div>
+<span class="text">seconds to go</span>
+</h5>
+<div class="successful" id="notice">
+<h3>Funding Successful</h3>
+<p>
+This project successfully raised its funding goal on May 18.
+</p>
+</div>
+</div>
+
+<div class="NS-projects-rightcol-rewards clickable" data-reward-count="11" id="what-you-get">
+<div class="NS-projects-reward">
+<h3>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=1.0&amp;backing%5Bbacker_reward_id%5D=687442&amp;clicked_reward=true&amp;logged_in=false">Pledge $1 or more</a>
+<span>Pledge $1 or more</span>
+</h3>
+<div class="backers-limits">
+<span class="icon-backer-tag"></span>
+<span class="num-backers">
+2615 Backers
+</span>
+</div>
+<div class="desc">
+<p>Didn't get a chance to back Pebble before it sold out? Pledge $1 and keep up-to-date on all things Pebble with exclusive updates, Pebble availability or more. You can also sign up for more updates at http://eepurl.com/lG15L</p>
+</div>
+<div class="delivery-date">
+<strong>Estimated Delivery:</strong>
+Sep 2012
+</div>
+</div>
+<div class="NS-projects-reward">
+<h3>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=99.0&amp;backing%5Bbacker_reward_id%5D=543915&amp;clicked_reward=true&amp;logged_in=false">Pledge $99 or more</a>
+<span>Pledge $99 or more</span>
+</h3>
+<div class="backers-limits">
+<span class="icon-backer-tag"></span>
+<span class="num-backers">
+200 Backers
+</span>
+<span class="sold-out">
+SOLD OUT
+(0 of 200 remaining)
+</span>
+</div>
+<div class="desc">
+<p>EARLY BIRDS Help us get started! One Jet Black Pebble watch. This watch will retail for more than $150. Free shipping to USA. (Add $10 for shipping to Canada, $15 for international shipping.)</p>
+</div>
+<div class="delivery-date">
+<strong>Estimated Delivery:</strong>
+Sep 2012
+</div>
+</div>
+<div class="NS-projects-reward">
+<h3>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=115.0&amp;backing%5Bbacker_reward_id%5D=591847&amp;clicked_reward=true&amp;logged_in=false">Pledge $115 or more</a>
+<span>Pledge $115 or more</span>
+</h3>
+<div class="backers-limits">
+<span class="icon-backer-tag"></span>
+<span class="num-backers">
+40799 Backers
+</span>
+<span class="sold-out">
+SOLD OUT
+(0 of 40799 remaining)
+</span>
+</div>
+<div class="desc">
+<p>One Jet Black Pebble watch. Free shipping to USA. (Add $10 for shipping to Canada, $15 for international shipping.)</p>
+</div>
+<div class="delivery-date">
+<strong>Estimated Delivery:</strong>
+Sep 2012
+</div>
+</div>
+<div class="NS-projects-reward">
+<h3>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=125.0&amp;backing%5Bbacker_reward_id%5D=543968&amp;clicked_reward=true&amp;logged_in=false">Pledge $125 or more</a>
+<span>Pledge $125 or more</span>
+</h3>
+<div class="backers-limits">
+<span class="icon-backer-tag"></span>
+<span class="num-backers">
+14350 Backers
+</span>
+<span class="sold-out">
+SOLD OUT
+(0 of 14350 remaining)
+</span>
+</div>
+<div class="desc">
+<p>One Pebble in any color (choose from Arctic White, Cherry Red, Voter's choice or Jet Black). Free shipping to USA. (Add $10 for shipping to Canada, $15 for international shipping.)</p>
+</div>
+<div class="delivery-date">
+<strong>Estimated Delivery:</strong>
+Sep 2012
+</div>
+</div>
+<div class="NS-projects-reward">
+<h3>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=220.0&amp;backing%5Bbacker_reward_id%5D=553630&amp;clicked_reward=true&amp;logged_in=false">Pledge $220 or more</a>
+<span>Pledge $220 or more</span>
+</h3>
+<div class="backers-limits">
+<span class="icon-backer-tag"></span>
+<span class="num-backers">
+3800 Backers
+</span>
+<span class="sold-out">
+SOLD OUT
+(0 of 3800 remaining)
+</span>
+</div>
+<div class="desc">
+<p>Two Jet Black Pebble watches. Free shipping to USA. (Add $10 for shipping to Canada, $15 for international shipping.)</p>
+</div>
+<div class="delivery-date">
+<strong>Estimated Delivery:</strong>
+Sep 2012
+</div>
+</div>
+<div class="NS-projects-reward">
+<h3>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=235.0&amp;backing%5Bbacker_reward_id%5D=543970&amp;clicked_reward=true&amp;logged_in=false">Pledge $235 or more</a>
+<span>Pledge $235 or more</span>
+</h3>
+<div class="backers-limits">
+<span class="icon-backer-tag"></span>
+<span class="num-backers">
+100 Backers
+</span>
+<span class="sold-out">
+SOLD OUT
+(0 of 100 remaining)
+</span>
+</div>
+<div class="desc">
+<p>HACKER SPECIAL You'll get early access to the SDK and we'll send you a prototype Pebble in August so you can get started coding. You will also receive another Pebble in any color when the full batch ships. Free shipping to USA. (Add $20 for shipping to Canada, $30 for international shipping.)</p>
+</div>
+<div class="delivery-date">
+<strong>Estimated Delivery:</strong>
+Aug 2012
+</div>
+</div>
+<div class="NS-projects-reward">
+<h3>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=240.0&amp;backing%5Bbacker_reward_id%5D=543969&amp;clicked_reward=true&amp;logged_in=false">Pledge $240 or more</a>
+<span>Pledge $240 or more</span>
+</h3>
+<div class="backers-limits">
+<span class="icon-backer-tag"></span>
+<span class="num-backers">
+4925 Backers
+</span>
+<span class="sold-out">
+SOLD OUT
+(0 of 4925 remaining)
+</span>
+</div>
+<div class="desc">
+<p>Two Pebbles in any color (choose from Arctic White, Cherry Red, Voter's choice or Jet Black) Free shipping to USA. (Add $10 for shipping to Canada, $15 for international shipping.)</p>
+</div>
+<div class="delivery-date">
+<strong>Estimated Delivery:</strong>
+Sep 2012
+</div>
+</div>
+<div class="NS-projects-reward">
+<h3>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=550.0&amp;backing%5Bbacker_reward_id%5D=591905&amp;clicked_reward=true&amp;logged_in=false">Pledge $550 or more</a>
+<span>Pledge $550 or more</span>
+</h3>
+<div class="backers-limits">
+<span class="icon-backer-tag"></span>
+<span class="num-backers">
+900 Backers
+</span>
+<span class="sold-out">
+SOLD OUT
+(0 of 900 remaining)
+</span>
+</div>
+<div class="desc">
+<p>OFFICE PACK Five Pebbles in any color (choose from Arctic White, Cherry Red, Voter's choice or Jet Black). Free shipping to USA. (Add $10 for shipping to Canada, $15 for international shipping.)</p>
+</div>
+<div class="delivery-date">
+<strong>Estimated Delivery:</strong>
+Sep 2012
+</div>
+</div>
+<div class="NS-projects-reward">
+<h3>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=1000.0&amp;backing%5Bbacker_reward_id%5D=591909&amp;clicked_reward=true&amp;logged_in=false">Pledge $1,000 or more</a>
+<span>Pledge $1,000 or more</span>
+</h3>
+<div class="backers-limits">
+<span class="icon-backer-tag"></span>
+<span class="num-backers">
+482 Backers
+</span>
+<span class="sold-out">
+SOLD OUT
+(0 of 482 remaining)
+</span>
+</div>
+<div class="desc">
+<p>DISTRIBUTOR PACK Ten Pebbles in any color (choose from Arctic White, Cherry Red, Voter's choice or Jet Black). Free shipping to USA. (Add $10 for shipping to Canada, $15 for international shipping.)</p>
+</div>
+<div class="delivery-date">
+<strong>Estimated Delivery:</strong>
+Sep 2012
+</div>
+</div>
+<div class="NS-projects-reward">
+<h3>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=1250.0&amp;backing%5Bbacker_reward_id%5D=543971&amp;clicked_reward=true&amp;logged_in=false">Pledge $1,250 or more</a>
+<span>Pledge $1,250 or more</span>
+</h3>
+<div class="backers-limits">
+<span class="icon-backer-tag"></span>
+<span class="num-backers">
+20 Backers
+</span>
+<span class="sold-out">
+SOLD OUT
+(0 of 20 remaining)
+</span>
+</div>
+<div class="desc">
+<p>CUSTOM WATCHFACE Let us create a custom watchface precisely to your specifications! Send us your ideas and we'll design a watchface just for you. You'll also receive 5 Color Pebble watches so you and your friends can share the fun. Free shipping to USA. (Add $10 for shipping to Canada, $15 for international shipping.)</p>
+</div>
+<div class="delivery-date">
+<strong>Estimated Delivery:</strong>
+Sep 2012
+</div>
+</div>
+<div class="NS-projects-reward">
+<h3>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=10000.0&amp;backing%5Bbacker_reward_id%5D=598883&amp;clicked_reward=true&amp;logged_in=false">Pledge $10,000 or more</a>
+<span>Pledge $10,000 or more</span>
+</h3>
+<div class="backers-limits">
+<span class="icon-backer-tag"></span>
+<span class="num-backers">
+31 Backers
+</span>
+<span class="sold-out">
+SOLD OUT
+(0 of 31 remaining)
+</span>
+</div>
+<div class="desc">
+<p>MEGA DISTRIBUTOR PACK One Hundred Pebbles in any color (choose from Arctic White, Cherry Red, Voter's choice or Jet Black). Free shipping to USA. (Add $10 for shipping to Canada, $15 for international shipping.)</p>
+</div>
+<div class="delivery-date">
+<strong>Estimated Delivery:</strong>
+Sep 2012
+</div>
+</div>
+
+</div>
+
+<div class="NS-projects-rightcol-projectby" id="project-by">
+<h3 class="dotty">Project By<div class="clear"></div></h3><div id="avatar">
+<a href="/profile/597507018"><img alt="Icon.large" class="avatar-large" height="220" src="http://s3.amazonaws.com/ksr/avatars/469081/icon.large.jpg?1334094010" width="220" /></a>
+</div>
+<div id="creator-details">
+<h3><a href="/profile/597507018">Pebble Technology</a></h3>
+<p class="last-login">
+Last Login
+05/28/12
+</p>
+<ul>
+<li class="location">
+<a href="/discover/cities/palo-alto-ca"><span class='icon'></span>Palo Alto, CA</a>
+</li>
+<li class="backed">
+<a href="/profiles/597507018/projects/backed" class="more-button remote_modal_dialog" data-modal-title="Projects backed by Pebble Technology"><span class='icon'></span>Backed 7 projects</a>
+</li>
+<li class="contactme">
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/messages/new?message%5Bto%5D=597507018" class="remote_modal_dialog" data-modal-title="Send A Message to Pebble Technology"><span class='icon'></span>Send Message</a>
+</li>
+</ul>
+</div>
+<div id="facebook-connect">
+<div class="icon"></div>
+<p>Connected
+as
+<a href="http://facebook.com/122600213" class="popup" target="_blank">Eric Migicovsky</a>
+(587&nbsp;friends)
+</p>
+</div>
+<div id="biography">
+<p>Eric and his team have been designing smartwatches for 3 years. Their first product was the inPulse smartwatch for Blackberry (<a href="http://www.getinpulse.com" rel="nofollow" target="_blank">www.getinpulse.com</a>). inPulse has been covered by Engadget, The Verge, Gizmodo, NYTimes and more.</p>
+
+<p>The Pebble team includes electrical and computer engineers, as well as Steve - our talented industrial designer.</p>
+</div>
+<ol id="sites">
+<li>
+<a href="http://www.getpebble.com" class="popup" rel="nofollow" target="_blank">getpebble.com</a>
+</li>
+</ol>
+</div>
+
+<div id="mentions">
+<h3>Featured on the Kickstarter blog</h3>
+<ul>
+<li>
+<a href="/blog/this-week-in-kickstarter-25"><span class='icon-arrow'></span>This Week in Kickstarter</a>
+<time datetime="2012-05-11 14:24:00 -0400" pubdate>May 11, 2012</time>
+</li>
+<li>
+<a href="/blog/this-week-in-kickstarter-23"><span class='icon-arrow'></span>This Week in Kickstarter</a>
+<time datetime="2012-04-20 15:15:00 -0400" pubdate>April 20, 2012</time>
+</li>
+<li>
+<a href="/blog/the-history-of-1-0"><span class='icon-arrow'></span>The History of #1</a>
+<time datetime="2012-04-18 09:30:00 -0400" pubdate>April 18, 2012</time>
+</li>
+<li>
+<a href="/blog/this-week-in-kickstarter-22"><span class='icon-arrow'></span>This Week in Kickstarter</a>
+<time datetime="2012-04-13 12:45:00 -0400" pubdate>April 13, 2012</time>
+</li>
+</ul>
+
+</div>
+</div>
+
+</div>
+
+
+</div>
+</div>
+<div id="project_bar">
+<div class="this_project_id" style="display: none;">111694</div>
+<div class="container">
+<img alt="Project_bar_shadow" class="shadow" src="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/images/projects/project_bar_shadow.png" />
+<div class="window">
+<ol class="projects">
+<li class="page">
+<ol></ol>
+</li>
+</ol>
+</div>
+<a href="#" class="prev arrow enabled"><div class="icon-project-bar-left"></div>
+</a><a href="#" class="next arrow enabled"><div class="icon-project-bar-right"></div>
+</a></div>
+</div>
+
+
+
+
+<div id="mega-footer-wrap">
+<div id="mega-footer-shadow">
+<div class="container" id="mega-footer">
+<div id="mega-discover">
+<h5>Browse Categories</h5>
+<ul class="list-footer-categories list-0">
+<li><a href="/discover/categories/art?ref=footer">Art</a></li>
+<li><a href="/discover/categories/comics?ref=footer">Comics</a></li>
+<li><a href="/discover/categories/dance?ref=footer">Dance</a></li>
+<li><a href="/discover/categories/design?ref=footer">Design</a></li>
+<li><a href="/discover/categories/fashion?ref=footer">Fashion</a></li>
+<li><a href="/discover/categories/film%20&amp;%20video?ref=footer">Film &amp; Video</a></li>
+<li><a href="/discover/categories/food?ref=footer">Food</a></li>
+</ul>
+<ul class="list-footer-categories list-1">
+<li><a href="/discover/categories/games?ref=footer">Games</a></li>
+<li><a href="/discover/categories/music?ref=footer">Music</a></li>
+<li><a href="/discover/categories/photography?ref=footer">Photography</a></li>
+<li><a href="/discover/categories/publishing?ref=footer">Publishing</a></li>
+<li><a href="/discover/categories/technology?ref=footer">Technology</a></li>
+<li><a href="/discover/categories/theater?ref=footer">Theater</a></li>
+</ul>
+</div>
+<div id="mega-join-like">
+<form accept-charset="UTF-8" action="/newsletters/signup" class="overlabels" method="post"><div style="margin:0;padding:0;display:inline"><input class="hidden" name="utf8" type="hidden" value="&#x2713;" /><input class="hidden" name="authenticity_token" type="hidden" value="iMkvlaJ5LF6/yOj5PT50tMHeTZxD+SYC84ZUQfi76fQ=" /></div>
+<h5>Kickstarter's weekly newsletter</h5>
+<p>Get awesome projects delivered to your inbox each week.</p>
+<textarea class="hide textarea" id="comment" name="comment">
+</textarea>
+<div class="field newsletter">
+<label class="overlabel overlabel-newsletter">Your email address...</label>
+<input class="text" id="email" name="email" type="text" />
+</div>
+<input class="button-positive submit" name="commit" type="submit" value="Join newsletter" />
+</form>
+
+<h5>Kickstarter on Facebook</h5>
+<fb:like href="http://facebook.com/kickstarter" show_faces="true" width="330"></fb:like>
+</div>
+<div id="mega-connect">
+<h5>Connect with Kickstarter</h5>
+<ul id="list-footer-connect">
+<li><a href="http://twitter.com/kickstarter" id="footer-twitter"><span class='icon-footer-twitter'></span>Follow on Twitter</a></li>
+<li><a href="/blog" id="footer-blog"><span class='icon-footer-blog'></span>Read our blog</a></li>
+<li><a href="/team?ref=footer" id="footer-team"><span class='icon-footer-team'></span>Meet the team</a></li>
+<li><a href="/jobs?ref=footer" id="footer-jobs"><span class='icon-footer-jobs'></span>Work with us</a></li>
+</ul>
+<span class="scissors icon-scissors-1"></span>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-wrap">
+<div class="container" id="footer">
+<div id="etc">
+<ul>
+<li><a href="/help?ref=footer">Help</a></li>
+<li><a href="/help/guidelines?ref=footer">Guidelines</a></li>
+<li><a href="/terms-of-use?ref=footer">Terms of Use</a></li>
+<li><a href="/privacy?ref=footer">Privacy Policy</a></li>
+<li class="last"><a href="http://kickstarter.zendesk.com/home" id="" onclick="Zenbox.render(); return false;">Contact</a></li>
+</ul>
+</div>
+<div id="legal">
+&copy;
+2012
+Kickstarter, Inc.
+</div>
+</div>
+</div>
+
+<script>
+  //<![CDATA[
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    var analytics_vars = { google_analytics_id : "UA-7621056-1", logged_in : "false", verifying_backing : "false", social_user: "false" }
+  //]]>
+</script>
+
+
+<script>
+  //<![CDATA[
+    window.mixpanel_id = '75b1d24a516ecfc955eadfadc4910661';
+    window.mixpanel_debug = false;
+  //]]>
+</script>
+
+
+<script>
+  //<![CDATA[
+    _qoptions={qacct:"p-34IbSpw2K94Sg"};
+  //]]>
+</script>
+<script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script>
+<noscript><img alt="Quantcast" border="0" height="1" src="http://pixel.quantserve.com/pixel/p-34IbSpw2K94Sg.gif" style="display:none" width="1" /></noscript>
+
+<script>
+  //<![CDATA[
+    var _sf_async_config={uid:5536,domain:"kickstarter.com"};
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+           "js/chartbeat.js");
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+  //]]>
+</script>
+
+<div class="modal_dialog" id="learn-more-dialog" style="display: none;">
+<div class="modal_dialog_ie6_background"></div>
+<div class="modal_dialog_outer">
+<div class="modal_dialog_sizer">
+<div class="modal_dialog_inner">
+<div class="modal_dialog_content">
+<div class="modal_dialog_head"><a class="modal_dialog_close" href="#"><span class="icon-x">Close</span></a></div>
+<div class="modal_dialog_body">
+<div id="learn_more_panel">
+<ul id="panels">
+<!-- * Panel 1 */ -->
+<li class="panel" id="panel-1">
+<h1>
+Kickstarter is a funding platform for creative projects.
+</h1>
+<p style="letter-spacing: -.03em">
+<em>At this very second</em>, thousands of people are checking out projects
+on Kickstarter. They're rallying around their friends' ideas, backing projects
+from people they've long admired, and discovering things that make
+them laugh and smile.
+</p>
+<p>
+Every project is <em>independently crafted</em>, put to <em>all-or-nothing funding</em>,
+<br>
+and supported by friends, fans, and the public <em>in return for rewards</em>.
+</p>
+<div class="learn_more_nav">
+<p>Have 60 seconds?</p>
+<a class="next">
+We'll explain it all
+<span></span>
+</a>
+</div>
+</li>
+<!-- * Panel 2 */ -->
+<li class="panel">
+<h1>
+Independently crafted.
+</h1>
+<p>
+The filmmakers, musicians, artists, and designers you see on Kickstarter have <em>complete control and responsibility over their own projects</em>.
+They spend weeks building their own project pages, shooting their own videos, and brainstorming
+<br>
+what to offer as rewards.
+</p>
+<p>
+Rewards are things like a <em>copy of what’s being made</em>, a <em>limited edition</em>, or a <em>custom experience</em> related to the project. This isn’t Best Buy – rewards aren’t shrink-wrapped and ready to ship. Once the project is funded, the journey to bring them to life begins.
+</p>
+<div class="learn_more_nav">
+<a class="prev">
+Previous
+</a>
+<a class="next">
+Next
+</a>
+</div>
+</li>
+<!-- * Panel 3 */ -->
+<li class="panel">
+<h1>
+All-or-nothing funding.
+</h1>
+<p>
+Every project creator sets their project's funding goal and deadline.
+<em>
+If the project succeeds
+</em>
+in reaching its funding goal
+<em>
+all backers’ credit cards are charged
+</em>
+when
+time expires.
+<em>If the project falls short no one is charged.</em>
+</p>
+<p>
+Since our launch in April 2009, more than 20,000 creative projects
+<br>
+have been successfully funded by awesome people from around the world.
+</p>
+<p>
+But Kickstarter is about much more than money...
+</p>
+<div class="learn_more_nav">
+<a class="prev">
+Previous
+</a>
+<a class="next">
+Next
+</a>
+</div>
+</li>
+<!-- * Panel 4 */ -->
+<li class="panel">
+<h1>
+The big picture.
+</h1>
+<ul id="learn-more-stats">
+<p>
+Since launching in April 2009:
+</p>
+<li>
+<em>
+$200 million
+</em>
+pledged to projects
+</li>
+<li>
+<em>
+1.8 million people
+</em>
+have backed a project
+</li>
+<li>
+<em>
+20,000 projects
+</em>
+successfully funded
+</li>
+</ul>
+<p>
+People come to Kickstarter to build community around their projects. It’s inspiring to be supported by people you know, and amazing to connect with strangers who are discovering your ideas for the first time.
+</p>
+<p>
+The feedback, press, and love that can come with
+<br>
+a Kickstarter project are just as valuable as the money raised. Ask anyone who’s done it before. There’s nothing like it.
+<img alt="&lt;3" height="11" src="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/images/compass/site/heart.png" width="13" />
+</p>
+<div class="learn_more_nav">
+<a class="prev">
+Previous
+</a>
+<a class="modal_dialog_close">
+Thanks! All done.
+</a>
+</div>
+</li>
+</ul>
+</div>
+<div id="learn_more_touts">
+<div id="nyt">
+<img alt="New York Times" height="21" src="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/images/compass/site/logo-nyt.png" width="155" />
+<p>
+The Year in Ideas 2009
+</p>
+</div>
+<div id="time">
+<img alt="TIME" height="27" src="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/images/compass/site/logo-time.png" width="81" />
+<p>
+Best Websites of 2011
+<br>
+Best Inventions of 2010
+</p>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+<span class="modal_dialog_ie_hack"></span>
+</div>
+</div>
+</div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
+<script>
+  //<![CDATA[
+    (function(){function c(a){this.local_start_time=new Date;this.settings={cookie_name:"request_time"};for(var b in a)this.settings[b]=a[b];this.get_remote_offset()}c.prototype.get_remote_offset=function(){this.cookie_value=this.read_cookie();var a=new Date(this.cookie_value);if(!this.cookie_value||"Invalid Date"===a.toString()){if(this.remote_offset=this.read_cookie("local_offset"))this.remote_offset=parseInt(this.remote_offset,10)}else this.remote_offset=a-this.local_start_time;"undefined"!==typeof this.remote_offset&& !isNaN(this.remote_offset)?(document.cookie="local_offset="+this.remote_offset+"; path=/",this.is_set=!0):this.is_set=!1};c.prototype.time_units=[["milliseconds",1],["seconds",1E3],["minutes",6E4],["hours",36E5],["days",864E5]];c.prototype.get_units_in_interval=function(a,b){var d=a.replace(/^\w/,function(d){return"get"+d.toUpperCase()});return b[d]()};c.prototype.milliseconds_in_day=function(a){"undefined"===typeof a&&(a=new Date);for(var b=0,d=this.time_units.length-2;0<=d;d--)b+=this.get_units_in_interval(this.time_units[d][0], a)*this.time_units[d][1];return b};c.prototype.milliseconds_in_interval=function(a,b){return this.milliseconds_in_day(b)%a};c.prototype.milliseconds_to_next_interval=function(a,b){return a-this.milliseconds_in_interval(a,b)};c.prototype.pluralize=function(a,b){1===b&&(a=a.replace(/s$/,""));return a};c.prototype.read_cookie=function(a){for(var b=window.document.cookie.split(";"),a=(a||this.settings.cookie_name)+"=",d=0;d<b.length;d++){for(var e=b[d];" "==e.charAt(0);)e=e.substring(1,e.length);if(0== e.indexOf(a))return b=e.substring(a.length,e.length),decodeURIComponent(b).replace(/\+/g," ")}return null};c.prototype.destroy_cookie=function(a){var b=new Date;a||(a=this.settings.cookie_name);b.setTime(b.getTime()-864E5);window.document.cookie=a+"=; expires="+b.toGMTString()+"; path=/"};c.prototype.get_remote_time=function(){var a=new Date,b=a.getTime()+this.remote_offset;return a=a.setTime(b)};window.ksr_page_clock=new c})(); (function(){function c(d,a,b){if(d){this.options={unit_base:{seconds:119,minutes:119,hours:72,days:0},end_phrase:d.getAttribute("data-word")||"to go",count_down:!1};for(k in b)this.options[k]=b[k];this.clock=a;this.time_units=this.clock.time_units.slice(1);this.element=d;this.clock.is_set&&this.attach()}}function a(){this.elements=[];this.attach()}var b=function(d,a){var b=a||window.document.body,c=d.split("."),g=c[c.length-1],c=1<c.length&&c[0]?c[0]:"*";if(window.document.getElementsByClassName)return b.getElementsByClassName(g); if(b.querySelectorAll)return b.querySelectorAll(d);for(var b=b.getElementsByTagName(c),c=[],h=0,f;f=b[h];h++)this.hasClass(f,g)&&c.push(f);return c};c.prototype.get_remaining_time=function(){var d=this.remote_end_time-this.clock.get_remote_time();0>d&&(d=0);return d};c.prototype.get_current_unit=function(){for(var d,a=0;a<this.time_units.length&&!(d=this.time_units[a],this.get_remaining_time()<=this.options.unit_base[d[0]]*d[1]);a++);return d};c.prototype.update_element=function(){var a=this.get_current_unit(), b=Math.floor(this.get_remaining_time()/a[1]);isNaN(b)||(this.number_element.innerHTML=b,this.text_element.innerHTML=this.clock.pluralize(a[0],b)+" "+this.options.end_phrase)};c.prototype.valid=function(){return!(!this.number_element||!this.text_element)};c.prototype.attach=function(){function a(){c.update_element();if(c.options.count_down&&0<c.get_remaining_time()){var b=c.get_current_unit();this.timeout=window.setTimeout(a,c.clock.milliseconds_to_next_interval(b[1]))}}var c=this;if(this.remote_end_time_string= this.element.getAttribute("data-end_time"))this.remote_end_time_string.match(/^\d+$/)?(this.remote_end_time=new Date,this.remote_end_time.setTime(this.remote_end_time_string)):this.remote_end_time=new Date(this.remote_end_time_string),this.number_element=b(".num",this.element)[0],this.text_element=b(".text",this.element)[0],this.element.ksr_page_timer=!0,this.valid()&&a()};c.prototype.cancel=function(){this.timeout&&clearTimeout(this.timeout)};a.prototype.loading=!0;a.prototype.stop_finding=function(){this.loading= !1;document.addEventListener?document.removeEventListener("DOMContentLoaded",this.stop_finding,!1):document.attachEvent&&"complete"===document.readyState&&document.detachEvent("onreadystatechange",this.stop_finding)};a.prototype.bind_ready=function(){var a=this,b=function(){a.stop_finding.call(a)};document.addEventListener?(document.addEventListener("DOMContentLoaded",b,!1),window.addEventListener("load",b,!1)):document.attachEvent&&(document.attachEvent("onreadystatechange",b),window.attachEvent("onload", b))};a.prototype.attach_timers=function(){for(var a=b("div.ksr_page_timer"),e=0;e<a.length;e++)a[e].ksr_page_timer||(new c(a[e],window.ksr_page_clock),this.elements.push(a[e]))};a.prototype.attach=function(){var a=this;this.bind_ready();(function(){a.attach_timers();a.loading&&window.setTimeout(function(){a.attach_timers()},200)})()};window.ProjectTimer=c;new a})();
+  //]]>
+</script>
+
+<script src="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/assets/project_page.js" type="text/javascript"></script>
+<script src="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/assets/jwplayer.js" type="text/javascript"></script>
+<script src="http://asset0.zendesk.com/external/zenbox/v2.1/zenbox.js" type="text/javascript"></script>
+<script>
+  //<![CDATA[
+    if (typeof(Zenbox) !== "undefined") {
+      Zenbox.init({
+        dropboxID: "20012797",
+        tabID: "support",
+        hide_tab: true,
+        url: "kickstarter.zendesk.com"
+      });
+    }
+  //]]>
+</script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+
+
+
+
+<div id="fb-root"></div>
+<script>
+  //<![CDATA[
+    var channelUrl = window.location.protocol + "//" + window.location.host + "/channel.html";
+    
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId: '69103156693',
+        channelUrl: channelUrl,
+        status: true,    // check login status
+        cookie: true,    // enable cookies to allow the server to access the session
+        xfbml: true,     // parse XFBML
+        logging: false   // turn off logging
+      });
+    
+      $(document).trigger('fb:loaded');
+    
+      var logout_from_fb = false;
+    
+      FB.Event.subscribe('auth.statusChange', function(response) {
+        if (logout_from_fb) {
+          FB.logout(function() {
+            logout_from_fb = false;
+          });
+        } else if (response.authResponse && true && true && true && !FB.usingButton) {
+          $.get("http://www.kickstarter.com/fb/connect/verify?then=http%3A%2F%2Fwww.kickstarter.com%2Fprojects%2F597507018%2Fpebble-e-paper-watch-for-iphone-and-android", {'fbsr': response.authResponse.signedRequest}, function() {});
+        }
+      });
+      
+    };
+    
+    
+    // Load the SDK Asynchronously
+    (function(d){
+      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = "//connect.facebook.net/en_US/all.js";
+      d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+  //]]>
+</script>
+
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/34/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","b04b883ad2",11086,"cFteRUULX1wHFhtIEFxeVVJDFxxDCgtD",0.0,283,new Date().getTime(),"","","","",""])</script></body>
+</html>
