@@ -1,17 +1,17 @@
 HTTP/1.1 200 OK
 Server: nginx/1.0.11
-Date: Tue, 29 May 2012 20:57:24 GMT
+Date: Wed, 30 May 2012 16:25:07 GMT
 Content-Type: text/html; charset=utf-8
 Connection: keep-alive
 Status: 200 OK
-Content-Length: 65213
-X-Runtime: 0.304568
-Set-Cookie: abid=BAgiFWI4M2RkZjM4ZGM5YzA1MmU%3D--e1e1542371a1b578075e35032ca6e649a3290d6f; path=/; expires=Sat, 29-May-2032 20:57:24 GMT
-Set-Cookie: last_page=http%3A%2F%2Fwww.kickstarter.com%2Fprojects%2F597507018%2Fpebble-e-paper-watch-for-iphone-and-android; path=/; expires=Tue, 29-May-2012 21:27:24 GMT
-Set-Cookie: request_time=Tue%2C+29+May+2012+20%3A57%3A24+-0000; path=/
-X-Request-Id: cc59d7be217e9d3aee269463c7358cee
 Cache-Control: max-age=0, private, must-revalidate
-ETag: "9f12395e63e584a39ab835ee9f3f54cb"
+Set-Cookie: abid=BAgiFWM4MWNhNzA2ZTQ5YjRlMzc%3D--e3012a21f188e06f46e3a7a1ca9e53eb3d14763a; path=/; expires=Sun, 30-May-2032 16:25:06 GMT
+Set-Cookie: last_page=http%3A%2F%2Fwww.kickstarter.com%2Fprojects%2F597507018%2Fpebble-e-paper-watch-for-iphone-and-android; path=/; expires=Wed, 30-May-2012 16:55:06 GMT
+Set-Cookie: request_time=Wed%2C+30+May+2012+16%3A25%3A07+-0000; path=/
+ETag: "79174aaaaf456bb87ad02806f9389b0a"
+X-Request-Id: a16341a175157ef40b44276006273453
+X-Runtime: 0.274764
+Content-Length: 65204
 
 <!DOCTYPE html>
 <html class="projects_show no-js fontface " lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml">
@@ -23,46 +23,46 @@ ETag: "9f12395e63e584a39ab835ee9f3f54cb"
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 <meta content="telephone=no" name="format-detection">
 <link href="/fonts/fonts.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/assets/project_page.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://d297h9he240fqh.cloudfront.net/cache-0437de4ce/assets/project_page.css" media="screen" rel="stylesheet" type="text/css" />
 <!--[if lte IE 7]>
-  <link href="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/stylesheets/compass/library/ie.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://d297h9he240fqh.cloudfront.net/cache-0437de4ce/stylesheets/compass/library/ie.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 <link href="http://asset0.zendesk.com/external/zenbox/v2.1/zenbox.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/favicon.png" rel="icon" type="image/png">
-<link href="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" type="image/png">
-<link href="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/apple-touch-icon-ipad-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png">
-<link href="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/apple-touch-icon-iphone4-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png">
+<link href="http://d297h9he240fqh.cloudfront.net/cache-0437de4ce/favicon.png" rel="icon" type="image/png">
+<link href="http://d297h9he240fqh.cloudfront.net/cache-0437de4ce/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" type="image/png">
+<link href="http://d297h9he240fqh.cloudfront.net/cache-0437de4ce/apple-touch-icon-ipad-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png">
+<link href="http://d297h9he240fqh.cloudfront.net/cache-0437de4ce/apple-touch-icon-iphone4-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png">
 <link href="http://www.kickstarter.com/services/oembed?url=http%3A%2F%2Fwww.kickstarter.com%2Fprojects%2F597507018%2Fpebble-e-paper-watch-for-iphone-and-android" rel="alternate" title="Pebble: E-Paper Watch for iPhone and Android Script Tag oEmbed" type="application/json+oembed">
 <link rel="alternate" type="application/atom+xml" title="Pebble: E-Paper Watch for iPhone and Android : Kickstarter" href="http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/posts.atom" />
-<meta property="twitter:card" content="player"/>
+<meta property="og:description" content="Pebble is a customizable watch. Download new watchfaces, use sports and fitness apps, get notifications from your phone."/>
 <meta name="video_type" content="application/x-shockwave-flash"/>
-<meta name="video_width" content="560"/>
-<meta property="og:video:width" content="560"/>
-<meta property="twitter:site:id" content="16186995"/>
+<meta property="twitter:player:stream" content="http://s3.amazonaws.com/ksr/projects/111694/video-108947-h264_high.mp4"/>
+<meta property="og:video:height" content="314"/>
 <meta property="og:site_name" content="Kickstarter"/>
 <meta name="description" content="Pebble Technology is raising funds for Pebble: E-Paper Watch for iPhone and Android on Kickstarter! 
 
  Pebble is a customizable watch. Download new watchfaces, use sports and fitness apps, get notifications from your phone."/>
-<meta property="twitter:player:stream" content="http://s3.amazonaws.com/ksr/projects/111694/video-108947-h264_high.mp4"/>
-<meta property="twitter:player:width" content="560"/>
-<meta property="og:url" content="http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android"/>
-<meta name="video_height" content="314"/>
-<meta property="twitter:player" content="https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/widget/video.html"/>
-<meta property="og:video:height" content="314"/>
-<meta property="kickstarter:location:longitude" content="-122.143"/>
-<meta property="og:type" content="kickstarter:project"/>
-<meta property="og:video:type" content="application/x-shockwave-flash"/>
-<meta property="og:title" content="Pebble: E-Paper Watch for iPhone and Android"/>
-<meta property="twitter:player:height" content="314"/>
-<meta property="kickstarter:location:latitude" content="37.4419"/>
-<meta property="og:image" content="http://s3.amazonaws.com/ksr/projects/111694/photo-full.jpg?1334081632"/>
-<meta property="og:video" content="http://www.kickstarter.com/swf/kickplayer.swf?allowfullscreen=true&amp;autostart=true&amp;backcolor=000000&amp;controlbar=over&amp;file=http%3A%2F%2Fs3.amazonaws.com%2Fksr%2Fprojects%2F111694%2Fvideo-108947-h264_high.mp4&amp;image=http%3A%2F%2Fs3.amazonaws.com%2Fksr%2Fprojects%2F111694%2Fphoto-full.jpg&amp;screencolor=000000&amp;skin=http%3A%2F%2Fwww.kickstarter.com%2Fswf%2Fkickskin.swf&amp;wmode=opaque"/>
-<meta property="og:description" content="Pebble is a customizable watch. Download new watchfaces, use sports and fitness apps, get notifications from your phone."/>
-<meta property="fb:app_id" content="69103156693"/>
 <meta name="title" content="Kickstarter &gt;&gt; Pebble: E-Paper Watch for iPhone and Android by Pebble Technology"/>
+<meta name="video_width" content="560"/>
+<meta name="video_height" content="314"/>
+<meta property="og:video:width" content="560"/>
+<meta property="twitter:site:id" content="16186995"/>
+<meta property="twitter:card" content="player"/>
+<meta property="og:video:type" content="application/x-shockwave-flash"/>
+<meta property="fb:app_id" content="69103156693"/>
+<meta property="og:image" content="http://s3.amazonaws.com/ksr/projects/111694/photo-full.jpg?1334081632"/>
+<meta property="og:type" content="kickstarter:project"/>
+<meta property="og:video" content="http://www.kickstarter.com/swf/kickplayer.swf?allowfullscreen=true&amp;autostart=true&amp;backcolor=000000&amp;controlbar=over&amp;file=http%3A%2F%2Fs3.amazonaws.com%2Fksr%2Fprojects%2F111694%2Fvideo-108947-h264_high.mp4&amp;image=http%3A%2F%2Fs3.amazonaws.com%2Fksr%2Fprojects%2F111694%2Fphoto-full.jpg&amp;screencolor=000000&amp;skin=http%3A%2F%2Fwww.kickstarter.com%2Fswf%2Fkickskin.swf&amp;wmode=opaque"/>
+<meta property="kickstarter:location:longitude" content="-122.143"/>
+<meta property="og:url" content="http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android"/>
+<meta property="twitter:player:width" content="560"/>
+<meta property="twitter:player" content="https://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/widget/video.html"/>
+<meta property="kickstarter:location:latitude" content="37.4419"/>
+<meta property="twitter:player:height" content="314"/>
+<meta property="og:title" content="Pebble: E-Paper Watch for iPhone and Android"/>
 <meta content="authenticity_token" name="csrf-param" />
-<meta content="iMkvlaJ5LF6/yOj5PT50tMHeTZxD+SYC84ZUQfi76fQ=" name="csrf-token" />
+<meta content="47pBADM+f6yMp+27ONmKDYsrF/8sLD/5Glr07Gym6xY=" name="csrf-token" />
 <link href="http://kck.st/HumIV5" rel="shorturl">
 <link href="http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android" rel="canonical">
 <link href="http://s3.amazonaws.com/ksr/projects/111694/photo-med.jpg?1334081632" rel="image_src">
@@ -207,8 +207,8 @@ by
 <a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/backers" id="backers">Backers <span class='count'>68,929</span></a>
 </li>
 <li>
-<span data-comments-count="6945" id="comments_count">
-<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/comments" id="comments">Comments <span class='count'>6,945</span></a>
+<span data-comments-count="6964" id="comments_count">
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/comments" id="comments">Comments <span class='count'>6,964</span></a>
 </span>
 </li>
 </ul>
@@ -540,7 +540,7 @@ This project successfully raised its funding goal on May 18.
 <div class="NS-projects-rightcol-rewards clickable" data-reward-count="11" id="what-you-get">
 <div class="NS-projects-reward">
 <h3>
-<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=1.0&amp;backing%5Bbacker_reward_id%5D=687442&amp;clicked_reward=true&amp;logged_in=false">Pledge $1 or more</a>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=1.0&amp;backing%5Bbacker_reward_id%5D=687442&amp;clicked_reward=true&amp;logged_in=true">Pledge $1 or more</a>
 <span>Pledge $1 or more</span>
 </h3>
 <div class="backers-limits">
@@ -559,7 +559,7 @@ Sep 2012
 </div>
 <div class="NS-projects-reward">
 <h3>
-<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=99.0&amp;backing%5Bbacker_reward_id%5D=543915&amp;clicked_reward=true&amp;logged_in=false">Pledge $99 or more</a>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=99.0&amp;backing%5Bbacker_reward_id%5D=543915&amp;clicked_reward=true&amp;logged_in=true">Pledge $99 or more</a>
 <span>Pledge $99 or more</span>
 </h3>
 <div class="backers-limits">
@@ -628,7 +628,7 @@ Sep 2012
 </div>
 <div class="NS-projects-reward">
 <h3>
-<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=220.0&amp;backing%5Bbacker_reward_id%5D=553630&amp;clicked_reward=true&amp;logged_in=false">Pledge $220 or more</a>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=220.0&amp;backing%5Bbacker_reward_id%5D=553630&amp;clicked_reward=true&amp;logged_in=true">Pledge $220 or more</a>
 <span>Pledge $220 or more</span>
 </h3>
 <div class="backers-limits">
@@ -651,7 +651,7 @@ Sep 2012
 </div>
 <div class="NS-projects-reward">
 <h3>
-<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=235.0&amp;backing%5Bbacker_reward_id%5D=543970&amp;clicked_reward=true&amp;logged_in=false">Pledge $235 or more</a>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=235.0&amp;backing%5Bbacker_reward_id%5D=543970&amp;clicked_reward=true&amp;logged_in=true">Pledge $235 or more</a>
 <span>Pledge $235 or more</span>
 </h3>
 <div class="backers-limits">
@@ -674,7 +674,7 @@ Aug 2012
 </div>
 <div class="NS-projects-reward">
 <h3>
-<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=240.0&amp;backing%5Bbacker_reward_id%5D=543969&amp;clicked_reward=true&amp;logged_in=false">Pledge $240 or more</a>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=240.0&amp;backing%5Bbacker_reward_id%5D=543969&amp;clicked_reward=true&amp;logged_in=true">Pledge $240 or more</a>
 <span>Pledge $240 or more</span>
 </h3>
 <div class="backers-limits">
@@ -697,7 +697,7 @@ Sep 2012
 </div>
 <div class="NS-projects-reward">
 <h3>
-<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=550.0&amp;backing%5Bbacker_reward_id%5D=591905&amp;clicked_reward=true&amp;logged_in=false">Pledge $550 or more</a>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=550.0&amp;backing%5Bbacker_reward_id%5D=591905&amp;clicked_reward=true&amp;logged_in=true">Pledge $550 or more</a>
 <span>Pledge $550 or more</span>
 </h3>
 <div class="backers-limits">
@@ -720,7 +720,7 @@ Sep 2012
 </div>
 <div class="NS-projects-reward">
 <h3>
-<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=1000.0&amp;backing%5Bbacker_reward_id%5D=591909&amp;clicked_reward=true&amp;logged_in=false">Pledge $1,000 or more</a>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=1000.0&amp;backing%5Bbacker_reward_id%5D=591909&amp;clicked_reward=true&amp;logged_in=true">Pledge $1,000 or more</a>
 <span>Pledge $1,000 or more</span>
 </h3>
 <div class="backers-limits">
@@ -743,7 +743,7 @@ Sep 2012
 </div>
 <div class="NS-projects-reward">
 <h3>
-<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=1250.0&amp;backing%5Bbacker_reward_id%5D=543971&amp;clicked_reward=true&amp;logged_in=false">Pledge $1,250 or more</a>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=1250.0&amp;backing%5Bbacker_reward_id%5D=543971&amp;clicked_reward=true&amp;logged_in=true">Pledge $1,250 or more</a>
 <span>Pledge $1,250 or more</span>
 </h3>
 <div class="backers-limits">
@@ -766,7 +766,7 @@ Sep 2012
 </div>
 <div class="NS-projects-reward">
 <h3>
-<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=10000.0&amp;backing%5Bbacker_reward_id%5D=598883&amp;clicked_reward=true&amp;logged_in=false">Pledge $10,000 or more</a>
+<a href="/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/pledge/new?backing%5Bamount%5D=10000.0&amp;backing%5Bbacker_reward_id%5D=598883&amp;clicked_reward=true&amp;logged_in=true">Pledge $10,000 or more</a>
 <span>Pledge $10,000 or more</span>
 </h3>
 <div class="backers-limits">
@@ -798,7 +798,7 @@ Sep 2012
 <h3><a href="/profile/597507018">Pebble Technology</a></h3>
 <p class="last-login">
 Last Login
-05/28/12
+05/30/12
 </p>
 <ul>
 <li class="location">
@@ -864,7 +864,7 @@ as
 <div id="project_bar">
 <div class="this_project_id" style="display: none;">111694</div>
 <div class="container">
-<img alt="Project_bar_shadow" class="shadow" src="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/images/projects/project_bar_shadow.png" />
+<img alt="Project_bar_shadow" class="shadow" src="http://d297h9he240fqh.cloudfront.net/cache-0437de4ce/images/projects/project_bar_shadow.png" />
 <div class="window">
 <ol class="projects">
 <li class="page">
@@ -904,7 +904,7 @@ as
 </ul>
 </div>
 <div id="mega-join-like">
-<form accept-charset="UTF-8" action="/newsletters/signup" class="overlabels" method="post"><div style="margin:0;padding:0;display:inline"><input class="hidden" name="utf8" type="hidden" value="&#x2713;" /><input class="hidden" name="authenticity_token" type="hidden" value="iMkvlaJ5LF6/yOj5PT50tMHeTZxD+SYC84ZUQfi76fQ=" /></div>
+<form accept-charset="UTF-8" action="/newsletters/signup" class="overlabels" method="post"><div style="margin:0;padding:0;display:inline"><input class="hidden" name="utf8" type="hidden" value="&#x2713;" /><input class="hidden" name="authenticity_token" type="hidden" value="47pBADM+f6yMp+27ONmKDYsrF/8sLD/5Glr07Gym6xY=" /></div>
 <h5>Kickstarter's weekly newsletter</h5>
 <p>Get awesome projects delivered to your inbox each week.</p>
 <textarea class="hide textarea" id="comment" name="comment">
@@ -1124,7 +1124,7 @@ People come to Kickstarter to build community around their projects. It’s insp
 The feedback, press, and love that can come with
 <br>
 a Kickstarter project are just as valuable as the money raised. Ask anyone who’s done it before. There’s nothing like it.
-<img alt="&lt;3" height="11" src="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/images/compass/site/heart.png" width="13" />
+<img alt="&lt;3" height="11" src="http://d297h9he240fqh.cloudfront.net/cache-0437de4ce/images/compass/site/heart.png" width="13" />
 </p>
 <div class="learn_more_nav">
 <a class="prev">
@@ -1139,13 +1139,13 @@ Thanks! All done.
 </div>
 <div id="learn_more_touts">
 <div id="nyt">
-<img alt="New York Times" height="21" src="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/images/compass/site/logo-nyt.png" width="155" />
+<img alt="New York Times" height="21" src="http://d297h9he240fqh.cloudfront.net/cache-0437de4ce/images/compass/site/logo-nyt.png" width="155" />
 <p>
 The Year in Ideas 2009
 </p>
 </div>
 <div id="time">
-<img alt="TIME" height="27" src="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/images/compass/site/logo-time.png" width="81" />
+<img alt="TIME" height="27" src="http://d297h9he240fqh.cloudfront.net/cache-0437de4ce/images/compass/site/logo-time.png" width="81" />
 <p>
 Best Websites of 2011
 <br>
@@ -1170,8 +1170,8 @@ Best Inventions of 2010
   //]]>
 </script>
 
-<script src="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/assets/project_page.js" type="text/javascript"></script>
-<script src="http://d297h9he240fqh.cloudfront.net/cache-69c3154dd/assets/jwplayer.js" type="text/javascript"></script>
+<script src="http://d297h9he240fqh.cloudfront.net/cache-0437de4ce/assets/project_page.js" type="text/javascript"></script>
+<script src="http://d297h9he240fqh.cloudfront.net/cache-0437de4ce/assets/jwplayer.js" type="text/javascript"></script>
 <script src="http://asset0.zendesk.com/external/zenbox/v2.1/zenbox.js" type="text/javascript"></script>
 <script>
   //<![CDATA[
@@ -1242,5 +1242,5 @@ if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","b04b883ad2",11086,"cFteRUULX1wHFhtIEFxeVVJDFxxDCgtD",0.0,283,new Date().getTime(),"","","","",""])</script></body>
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","b04b883ad2",11086,"cFteRUULX1wHFhtIEFxeVVJDFxxDCgtD",0.0,239,new Date().getTime(),"","","","",""])</script></body>
 </html>
