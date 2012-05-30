@@ -145,7 +145,7 @@ module Kickstarter
     end
     
     def exact_pledge_deadline
-      @exact_pledge_deadline ||= Time.parse(details_page.css(".ksr_page_timer").attr("data-end_time").value)
+      @exact_pledge_deadline ||= Time.parse(details_page.css("#project_duration_data").attr("data-end_time").value)
     end
     
     # Note: Not all projects are assigned short_urls.

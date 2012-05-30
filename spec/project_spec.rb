@@ -14,6 +14,7 @@ describe Kickstarter::Project do
 
     subject { Kickstarter::Project.new(PROJECT_URL) }
 
+    its(:exact_pledge_deadline) { should == Time.parse('Sat, 8 June 2012 03:27:54 -0000') }
     its(:video_poster_url) { should == "http://s3.amazonaws.com/ksr/projects/75784/photo-full.jpg?1338296953" }
     its(:video_url) { should == "http://s3.amazonaws.com/ksr/projects/75784/video-107825-h264_high.mp4" }
   end
@@ -27,6 +28,7 @@ describe Kickstarter::Project do
 
     subject { Kickstarter::Project.new(FINISHED_PROJECT_URL) }
 
+    its(:exact_pledge_deadline) { should == Time.parse('Sat, 19 May 2012 03:00:00 -0000') }
     its(:video_poster_url) { should == "http://s3.amazonaws.com/ksr/projects/111694/photo-full.jpg?1334081632" }
     its(:video_url) { should == "http://s3.amazonaws.com/ksr/projects/111694/video-108947-h264_high.mp4" }
   end
